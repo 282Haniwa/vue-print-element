@@ -1,15 +1,11 @@
 import Vue from 'vue';
-import Hello from './components/Hello';
+import App from './components/App';
 
 const vue = new Vue({
   el: '#app',
-  components: { Hello },
-  data: {
-    name: 'World',
-  },
+  components: { App },
   template: `
     <div>
-      <hello :name="name"/>
-      Name: <input v-model="name" type="text">
+      <app />
     </div>`,
 });

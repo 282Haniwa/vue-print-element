@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "eslint-plugin-jest": "^23.16.0",
+    "print-element": "282Haniwa/print-element",
     "vue": "^2.6.11"
   },
   "devDependencies": {

@@ -28,6 +28,7 @@ module.exports = {
   rules: {
     'import/order': ['error'],
     'import/no-extraneous-dependencies': ['off'],
+    '@typescript-eslint/ban-types': ['off'],
     'prettier/prettier': [
       'error',
       {

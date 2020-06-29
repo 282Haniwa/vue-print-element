@@ -7199,6 +7199,10 @@ pretty@2.0.0, pretty@^2.0.0:
     extend-shallow "^2.0.1"
     js-beautify "^1.6.12"
 
+print-element@282Haniwa/print-element:
+  version "0.1.0"
+  resolved "https://codeload.github.com/282Haniwa/print-element/tar.gz/85bebc6ddd82bc13b573440dd8da9e901cc4acee"
+
 private@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
